@@ -30,5 +30,785 @@
   {
   "question": "Alice đã ăn gì để thay đổi kích thước cơ thể trong 'Alice in Wonderland'?",
   "answer": "Alice đã ăn chiếc bánh có nhãn 'Eat Me' để lớn hơn trong 'Alice in Wonderland'."
+  },
+  {
+  "question": "Con Sói Lớn Xấu Xa đã làm gì trong 'Ba chú heo con'?",
+  "answer": "Con Sói Lớn Xấu Xa hổn hển thổi bay nhà của ba chú heo con."
+  },
+  {
+  "question": "Cinderella đã sử dụng cái gì để đi đến vũ hội trong 'Cinderella'?",
+  "answer": "Cinderella đã sử dụng chiếc xe ngựa xinh đẹp do bà tiên đỡ đầu của cô ấy làm để đi dự vũ hội."
+  },
+  {
+  "question": "Tên của tên cướp biển trong 'Peter Pan' là gì?",
+  "answer": "Tên cướp biển trong 'Peter Pan' là Thuyền trưởng Hook."
+  },
+  {
+  "question": "Bà tiên đỡ đầu dùng gì để biến quả bí ngô thành xe ngựa?",
+  "answer": "Bà tiên đỡ đầu sử dụng cây đũa thần của mình để biến quả bí ngô thành cỗ xe trong 'Cinderella'."
+  },
+  {
+  "question": "Tên của con sói đang cố ăn thịt Cô bé quàng khăn đỏ là gì?",
+  "answer": "Tên của con sói đang cố ăn thịt Cô bé quàng khăn đỏ là Sói xấu xa."
+  },
+  {
+  "question": "Tên của vùng đất ma thuật nơi Peter Pan sống là gì?",
+  "answer": "Tên của vùng đất huyền diệu nơi Peter Pan sống là Neverland."
+  },
+  {
+  "question": "Hoàng hậu độc ác đã cho Bạch Tuyết thứ gì để khiến cô ấy chìm vào giấc ngủ sâu?",
+  "answer": "Hoàng hậu độc ác đã đưa cho Bạch Tuyết một quả táo tẩm độc để khiến nàng chìm vào giấc ngủ sâu trong 'Snow White'."
+  },
+  {
+  "question": "Dế Jiminy trong 'Pinocchio' là sinh vật gì?",
+  "answer": "Jiminy Cricket là một chú dế khôn ngoan và biết nói, là lương tâm của Pinocchio."
+  },
+  {
+  "question": "Tên của cô gái đi theo Thỏ Trắng trong 'Alice ở xứ sở thần tiên' là gì?",
+  "answer": "Tên của cô gái đi theo Thỏ Trắng trong 'Alice in Wonderland' là Alice."
+  },
+  {
+  "question": "Thỏ trắng trong 'Alice ở xứ sở thần tiên' là sinh vật gì?",
+  "answer": "Thỏ trắng là một chú thỏ điên cuồng và có ý thức về thời gian, người dẫn Alice vào một cuộc phiêu lưu."
+  },
+  {
+  "question": "Tên ngôi làng nơi Belle sống trong 'Người đẹp và quái vật' là gì?",
+  "answer": "Tên ngôi làng nơi Belle sống trong 'Người đẹp và quái vật' là Villeneuve."
+  },
+  {
+  "question": "Tên của bông hồng bị phù phép trong 'Người đẹp và quái vật' là gì?",
+  "answer": "Tên của bông hồng bị phù phép trong 'Người đẹp và quái vật' là Bông hồng bị phù phép."
+  },
+  {
+  "question": "Bà phù thủy trong 'Hansel và Gretel' dùng gì để bẫy trẻ em?",
+  "answer": "Bà phù thủy trong 'Hansel và Gretel' sử dụng ngôi nhà bánh gừng để bẫy và ăn thịt trẻ em."
+  },
+  {
+  "question": "Cô bé lọ lem thua gì ở vũ hội?",
+  "answer": "Cinderella làm mất một chiếc dép thủy tinh của cô ấy tại vũ hội trong 'Cinderella'."
+  },
+  {
+  "question": "Tên của sinh vật ma thuật đã giúp Lọ Lem chuẩn bị cho vũ hội là gì?",
+  "answer": "Tên của sinh vật huyền bí đã giúp Lọ Lem chuẩn bị cho vũ hội là Bà tiên đỡ đầu."
+  },
+  {
+  "question": "Tên của hoàng tử trong 'Bạch Tuyết', người đã đánh thức cô ấy bằng một nụ hôn?",
+  "answer": "Tên của hoàng tử trong 'Snow White', người đã đánh thức cô ấy bằng một nụ hôn là Hoàng tử Florian."
+  },
+  {
+  "question": "Tên của hoàng tử đã cứu Người đẹp ngủ trong rừng là gì?",
+  "answer": "Tên của hoàng tử đã cứu Người đẹp ngủ trong rừng là Hoàng tử Phillip."
+  },
+  {
+  "question": "Người thổi sáo dùng gì để dẫn lũ chuột đi trong 'Người thổi sáo thành Hamelin'?",
+  "answer": "Pied Piper sử dụng một giai điệu ma thuật trên cây sáo của mình để dẫn lũ chuột đi."
+  },
+  {
+  "question": "Tên của lâu đài nơi Người đẹp tìm thấy Quái vật trong 'Người đẹp và Quái vật' là gì?",
+  "answer": "Tên của lâu đài mà Người đẹp tìm thấy Quái vật trong 'Người đẹp và Quái vật' là Lâu đài của Quái vật."
+  },
+  {
+  "question": "Vịt con xấu xí là sinh vật gì?",
+  "answer": "The Ugly Duckling là một con thiên nga con lúc đầu bị nhầm là vịt."
+  },
+  {
+  "question": "Tên của bà tiên ban cho điều ước trở thành một cậu bé thực sự của Pinocchio là gì?",
+  "answer": "Tên của bà tiên ban cho Pinocchio điều ước trở thành một cậu bé thực sự là Blue Fairy."
+  },
+  {
+  "question": "Thỏ trắng mang theo thứ gì trong 'Alice ở xứ sở thần tiên'?",
+  "câu trả lời": "Thỏ trắng mang theo một chiếc đồng hồ bỏ túi và luôn lo lắng về việc bị trễ."
+  },
+  {
+  "question": "Tên của công chúa trong 'Người đẹp và quái vật' là gì?",
+  "answer": "Tên của công chúa trong 'Người đẹp và quái vật' là Belle."
+  },
+  {
+  "question": "Cái gì đã thổi bay Con Sói Lớn Xấu xa trong 'Ba chú heo con'?",
+  "answer": "The Big Bad Wolf đã thổi bay những ngôi nhà làm bằng rơm và củi trong 'Ba chú heo con'."
+  },
+  {
+  "question": "Tên của sinh vật dẫn Alice đến xứ sở thần tiên trong 'Alice ở xứ sở thần tiên' là gì?",
+  "answer": "Tên của sinh vật dẫn Alice đến xứ sở thần tiên trong 'Alice in Wonderland' là Thỏ Trắng."
+  },
+  {
+  "question": "Tên của lâu đài nơi hoàng tử tìm thấy Công chúa ngủ trong 'Công chúa ngủ trong rừng' là gì?",
+  "answer": "Tên của lâu đài nơi hoàng tử tìm thấy Người đẹp ngủ trong 'Công chúa ngủ trong rừng' là Lâu đài Maleficent."
+  },
+  {
+  "question": "Vị thần ma thuật trong 'Aladdin' là loại sinh vật nào?",
+  "answer": "Vị thần ma thuật trong 'Aladdin' là một linh hồn có khả năng thay đổi hình dạng, vĩ đại hơn người, ban cho những điều ước."
+  },
+  {
+  "question": "Tên của nàng tiên đã cứu Peter Pan khỏi Thuyền trưởng Hook trong 'Peter Pan' là gì?",
+  "answer": "Tên của nàng tiên đã cứu Peter Pan khỏi Thuyền trưởng Hook trong 'Peter Pan' là Tinker Bell."
+  },
+  {
+  "question": "Người đàn ông bánh gừng nói gì khi bỏ chạy?",
+  "answer": "Gingerbread Man nói, 'Chạy, chạy, nhanh nhất có thể. Bạn không thể bắt được tôi, tôi là Gingerbread Man!'"
+  },
+  {
+  "question": "Tên của người mẹ kế độc ác trong 'Cinderella' là gì?",
+  "answer": "Tên của bà mẹ kế độc ác trong 'Cinderella' là Lady Tremaine."
+  },
+  {
+  "question": "Cinderella đã thua gì ở vũ hội trong 'Cinderella'?",
+  "answer": "Cinderella bị mất một chiếc dép thủy tinh tại vũ hội."
+  },
+  {
+  "question": "Tên của vùng đất huyền diệu nơi các nàng tiên sống trong 'Peter Pan' là gì?",
+  "answer": "Tên của vùng đất huyền diệu nơi các nàng tiên sinh sống trong 'Peter Pan' là Neverland."
+  },
+  {
+  "question": "Con sói đã cải trang thành gì trong 'Cô bé quàng khăn đỏ'?",
+  "answer": "Con sói cải trang thành bà của Cô bé quàng khăn đỏ."
+  },
+  {
+  "question": "Tên của vùng đất huyền diệu nơi các nàng tiên sống trong 'Người đẹp ngủ trong rừng' là gì?",
+  "answer": "Tên của vùng đất huyền diệu nơi các nàng tiên sống trong 'Công chúa ngủ trong rừng' là Khu rừng bị phù phép."
+  },
+  {
+  "question": "Bà tiên đỡ đầu của Lọ Lem đã dùng gì để biến chiếc váy rách của mình thành một chiếc váy đẹp?",
+  "answer": "Bà tiên đỡ đầu của Lọ Lem đã sử dụng cây đũa thần để biến chiếc váy rách của cô ấy thành một chiếc váy xinh đẹp."
+  },
+  {
+  "question": "Tên của nàng công chúa hát với các sinh vật trong rừng trong 'Snow White' là gì?",
+  "answer": "Tên của nàng công chúa hát với các sinh vật trong rừng trong 'Snow White' chính là Snow White."
+  },
+  {
+  "question": "Tên của lâu đài nơi Lọ Lem sống với mẹ kế và các chị em kế là gì?",
+  "answer": "Tên của lâu đài nơi Lọ Lem sống với mẹ kế và các chị kế là Cinderella's Château."
+  },
+  {
+  "question": "Tên của loài hoa ma thuật có đặc tính chữa bệnh trong 'Rapunzel' là gì?",
+  "answer": "Tên của loài hoa ma thuật có đặc tính chữa bệnh trong 'Rapunzel' là loài hoa vàng."
+  },
+  {
+  "question": "Tên của hoàng tử hôn Người đẹp ngủ trong rừng và đánh thức cô ấy khỏi giấc ngủ là gì?",
+  "answer": "Tên của hoàng tử hôn Công chúa ngủ trong rừng và đánh thức cô ấy khỏi giấc ngủ là Hoàng tử Phillip."
+  },
+  {
+  "question": "Nàng tiên cá nhỏ đã đánh đổi điều gì để lấy một đôi chân người trong 'Nàng tiên cá'?",
+  "answer": "Nàng tiên cá nhỏ đã đánh đổi giọng hát tuyệt vời của mình để lấy một đôi chân người trong 'Nàng tiên cá'."
+  },
+  {
+  "question": "Tên của vùng đất ma thuật nơi Aladdin tìm thấy cây đèn thần là gì?",
+  "answer": "Tên của vùng đất ma thuật nơi Aladdin tìm thấy cây đèn thần là Cave of Wonders."
+  },
+  {
+  "question": "Nữ hoàng độc ác dùng gì để đầu độc Bạch Tuyết trong 'Snow White'?",
+  "câu trả lời": "Hoàng hậu độc ác dùng một quả táo tẩm độc để đầu độc Bạch Tuyết."
+  },
+  {
+  "question": "Bà tiên đỡ đầu của Lọ Lem biến thành người đánh xe để lái cỗ xe bí ngô của cô ấy là gì?",
+  "answer": "Bà tiên đỡ đầu của Lọ Lem biến một con chuột thành người đánh xe để lái cỗ xe bí ngô của cô ấy."
+  },
+  {
+  "question": "Tên của công chúa hôn ếch trong 'Công chúa và chàng ếch' là gì?",
+  "answer": "Tên của công chúa hôn ếch trong 'Công chúa và chàng ếch' là Công chúa Tiana."
+  },
+  {
+  "question": "Tên của lâu đài phù phép nơi Quái vật sống trong 'Người đẹp và Quái vật' là gì?",
+  "answer": "Tên của lâu đài bị phù phép nơi Quái vật sống trong 'Người đẹp và Quái vật' là Lâu đài của Quái vật."
+  },
+  {
+  "question": "Tên của công chúa sống trong tòa tháp với mái tóc dài trong 'Rapunzel' là gì?",
+  "answer": "Tên của nàng công chúa tóc dài sống trong tòa tháp trong 'Rapunzel' là Rapunzel."
+  },
+  {
+  "question": "Nàng tiên cá nhỏ đã đánh đổi điều gì với phù thủy biển để có cơ hội ở bên hoàng tử?",
+  "answer": "Nàng tiên cá nhỏ đã đánh đổi giọng nói của mình với phù thủy biển để có cơ hội được ở bên hoàng tử."
+  },
+  {
+  "question": "Jack đã đổi con bò lấy gì trong 'Jack and the Beanstalk'?",
+  "answer": "Jack đổi con bò để lấy hạt đậu thần trong 'Jack and the Beanstalk'."
+  },
+  {
+  "question": "Vị thần ma thuật trong 'Aladdin' là loại sinh vật nào?",
+  "answer": "Vị thần ma thuật trong 'Aladdin' là một linh hồn có khả năng thay đổi hình dạng, vĩ đại hơn người, ban cho những điều ước."
+  },
+  {
+  "question": "Tên của nàng công chúa tìm thấy bánh xe quay trong 'Công chúa ngủ trong rừng' là gì?",
+  "answer": "Tên của nàng công chúa tìm thấy bánh xe quay trong 'Công chúa ngủ trong rừng' là Aurora."
+  },
+  {
+  "question": "Bà tiên đỡ đầu của Lọ Lem biến thành cỗ xe bằng gì?",
+  "answer": "Bà tiên đỡ đầu của Lọ Lem đã biến một quả bí ngô thành một chiếc xe ngựa xinh đẹp."
+  },
+  {
+  "question": "Cái gì trong 'Ba chú heo con' mà con Sói hung ác thổi bay?",
+  "answer": "The Big Bad Wolf đã thổi bay những ngôi nhà làm bằng rơm và củi trong 'Ba chú heo con'."
+  },
+  {
+  "question": "Tên của công chúa sống trong lâu đài dưới biển trong 'Nàng tiên cá' là gì?",
+  "answer": "Tên của nàng công chúa sống trong lâu đài dưới biển trong 'Nàng tiên cá' là Ariel."
+  },
+  {
+  "question": "Bà tiên đỡ đầu dùng gì để giúp Lọ Lem đi dự vũ hội?",
+  "answer": "Bà tiên đỡ đầu dùng cây đũa thần để giúp Lọ Lem đi dự vũ hội."
+  },
+  {
+  "question": "Tên của nàng công chúa hát với các sinh vật trong rừng trong 'Snow White' là gì?",
+  "answer": "Tên của nàng công chúa hát với các sinh vật trong rừng trong 'Snow White' chính là Snow White."
+  },
+  {
+  "question": "Vịt con xấu xí biến thành gì ở cuối câu chuyện?",
+  "answer": "Vịt con xấu xí biến thành thiên nga xinh đẹp ở cuối câu chuyện."
+  },
+  {
+  "question": "Tên của công chúa sống trong lâu đài dưới biển trong 'Nàng tiên cá' là gì?",
+  "answer": "Tên của nàng công chúa sống trong lâu đài dưới biển trong 'Nàng tiên cá' là Ariel."
+  },
+  {
+  "question": "Bà tiên đỡ đầu đã dùng gì để giúp Lọ Lem đi dự vũ hội?",
+  "answer": "Bà tiên đỡ đầu đã sử dụng cây đũa thần của mình để giúp Lọ Lem đi dự vũ hội."
+  },
+  {
+  "question": "Tên của hoàng tử tìm thấy chiếc dép thủy tinh của Lọ Lem là gì?",
+  "answer": "Tên của hoàng tử tìm thấy chiếc dép thuỷ tinh của Lọ Lem là Prince Charming."
+  },
+  {
+  "question": "Con sâu bướm làm gì trong 'Alice ở xứ sở thần tiên'?",
+  "answer": "Con sâu bướm hút hookah và truyền trí tuệ cho Alice trong 'Alice ở xứ sở thần tiên'."
+  },
+  {
+  "question": "Tên của con rồng canh giữ lâu đài trong 'Công chúa ngủ trong rừng' là gì?",
+  "answer": "Tên của con rồng canh giữ lâu đài trong 'Công chúa ngủ trong rừng' là Maleficent trong hình dạng rồng."
+  },
+  {
+  "question": "Bà tiên đỡ đầu dùng gì để biến quả bí ngô thành xe ngựa?",
+  "answer": "Bà tiên đỡ đầu sử dụng cây đũa thần của mình để biến quả bí ngô thành xe ngựa."
+  },
+  {
+  "question": "Tên của hoàng tử tìm thấy chiếc dép thủy tinh của Lọ Lem là gì?",
+  "answer": "Tên của hoàng tử tìm thấy chiếc dép thuỷ tinh của Lọ Lem là Prince Charming."
+  },
+  {
+  "question": "Pied Piper chơi trò gì để dẫn lũ chuột đi?",
+  "answer": "Pied Piper chơi một giai điệu ma thuật trên cây sáo của mình để dẫn lũ chuột ra khỏi thị trấn."
+  },
+  {
+  "question": "Nữ hoàng độc ác trong 'Bạch Tuyết' là loại sinh vật nào?",
+  "answer": "Hoàng hậu độc ác trong 'Snow White' là một hoàng hậu độc ác với chiếc gương thần."
+  },
+  {
+  "question": "Tên của ấm trà được yểm bùa trong 'Người đẹp và quái vật' là gì?",
+  "answer": "Tên của chiếc ấm trà bị phù phép trong 'Người đẹp và quái vật' là bà Potts."
+  },
+  {
+  "question": "Người đàn ông bánh gừng nói gì với những người anh ta gặp?",
+  "answer": "Gingerbread Man nói, 'Chạy, chạy, nhanh nhất có thể. Bạn không thể bắt được tôi, tôi là Gingerbread Man!'"
+  },
+  {
+  "question": "Tên của hoàng tử trong 'Cinderella' là gì?",
+  "answer": "Tên của hoàng tử trong 'Cinderella' là Prince Charming."
+  },
+  {
+  "question": "Con ếch đã biến thành gì khi được công chúa hôn trong 'Hoàng tử ếch'?",
+  "answer": "Con ếch biến thành hoàng tử đẹp trai khi được công chúa hôn."
+  },
+  {
+  "question": "Thần đèn trong 'Aladdin' ban cho Aladdin điều gì?",
+  "answer": "Thần đèn trong 'Aladdin' ban cho Aladdin ba điều ước."
+  },
+  {
+  "question": "Tên của bà tiên đỡ đầu trong 'Cinderella' là gì?",
+  "answer": "Tên của bà tiên đỡ đầu trong 'Cinderella' là Bà tiên đỡ đầu."
+  },
+  {
+  "question": "Thỏ trắng đã nói gì khi vội vàng trong 'Alice ở xứ sở thần tiên'?",
+  "answer": "Thỏ trắng nói, 'Ôi trời! Ôi trời! Tôi sẽ đến quá muộn!'"
+  },
+  {
+  "question": "Quái vật tặng gì cho Belle trong 'Người đẹp và quái vật'?",
+  "answer": "Quái thú tặng bông hồng phép thuật cho Belle trong 'Người đẹp và quái vật'."
+  },
+  {
+  "question": "Nàng tiên cá muốn có gì trong 'Nàng tiên cá'?",
+  "câu trả lời": "Nàng tiên cá muốn có đôi chân của con người và đi bộ trên cạn."
+  },
+  {
+  "question": "Jack đã đổi gì để lấy hạt đậu thần trong 'Jack và cây đậu thần'?",
+  "answer": "Jack đã đổi con bò của gia đình mình để lấy hạt đậu thần trong 'Jack and the Beanstalk'."
+  },
+  {
+  "question": "Mad Hatter trong 'Alice in Wonderland' là sinh vật gì?",
+  "answer": "The Mad Hatter là một người thợ làm mũ kỳ quặc và lập dị, người tổ chức một bữa tiệc trà trong 'Alice ở xứ sở thần tiên'."
+  },
+  {
+  "question": "Alice đã uống gì để lớn hơn trong 'Alice in Wonderland'?",
+  "answer": "Alice đã uống một lọ thuốc có nhãn 'Uống tôi' để lớn hơn trong 'Alice ở xứ sở thần tiên'."
+  },
+  {
+  "question": "Tên của cây đèn thần trong 'Aladdin' là gì?",
+  "answer": "Tên của cây đèn thần trong 'Aladdin' là cây đèn thần."
+  },
+  {
+  "question": "Cái gì mà Sói lớn Xấu xa hạ gục trong 'Cô bé quàng khăn đỏ'?",
+  "answer": "The Big Bad Wolf thổi sập ngôi nhà của bà ngoại trong 'Cô bé quàng khăn đỏ'."
+  },
+  {
+  "question": "Cinderella đã sử dụng cái gì để đi đến vũ hội trong 'Cinderella'?",
+  "answer": "Cinderella đã sử dụng chiếc xe ngựa xinh đẹp do bà tiên đỡ đầu của cô ấy làm để đi dự vũ hội."
+  },
+  {
+  "question": "Tên của tên cướp biển trong 'Peter Pan' là gì?",
+  "answer": "Tên cướp biển trong 'Peter Pan' là Thuyền trưởng Hook."
+  },
+  {
+  "question": "Bà tiên đỡ đầu dùng gì để biến quả bí ngô thành xe ngựa?",
+  "answer": "Bà tiên đỡ đầu sử dụng cây đũa thần của mình để biến quả bí ngô thành cỗ xe trong 'Cinderella'."
+  },
+  {
+  "question": "Tên của con sói đang cố ăn thịt Cô bé quàng khăn đỏ là gì?",
+  "answer": "Tên của con sói đang cố ăn thịt Cô bé quàng khăn đỏ là Sói xấu xa."
+  },
+  {
+  "question": "Tên của vùng đất ma thuật nơi Peter Pan sống là gì?",
+  "answer": "Tên của vùng đất huyền diệu nơi Peter Pan sống là Neverland."
+  },
+  {
+  "question": "Hoàng hậu độc ác đã cho Bạch Tuyết thứ gì để khiến cô ấy chìm vào giấc ngủ sâu?",
+  "answer": "Hoàng hậu độc ác đã đưa cho Bạch Tuyết một quả táo tẩm độc để khiến nàng chìm vào giấc ngủ sâu trong 'Snow White'."
+  },
+  {
+  "question": "Dế Jiminy trong 'Pinocchio' là sinh vật gì?",
+  "answer": "Jiminy Cricket là một chú dế khôn ngoan và biết nói, là lương tâm của Pinocchio."
+  },
+  {
+  "question": "Tên của cô gái đi theo Thỏ Trắng trong 'Alice ở xứ sở thần tiên' là gì?",
+  "answer": "Tên của cô gái đi theo Thỏ Trắng trong 'Alice in Wonderland' là Alice."
+  },
+  {
+  "question": "Thỏ trắng trong 'Alice ở xứ sở thần tiên' là sinh vật gì?",
+  "answer": "Thỏ trắng là một chú thỏ điên cuồng và có ý thức về thời gian, người dẫn Alice vào một cuộc phiêu lưu."
+  },
+  {
+  "question": "Tên ngôi làng nơi Belle sống trong 'Người đẹp và quái vật' là gì?",
+  "answer": "Tên ngôi làng nơi Belle sống trong 'Người đẹp và quái vật' là Villeneuve."
+  },
+  {
+  "question": "Tên của bông hồng bị phù phép trong 'Người đẹp và quái vật' là gì?",
+  "answer": "Tên của bông hồng bị phù phép trong 'Người đẹp và quái vật' là Bông hồng bị phù phép."
+  },
+  {
+  "question": "Bà phù thủy trong 'Hansel và Gretel' dùng gì để bẫy trẻ em?",
+  "answer": "Bà phù thủy trong 'Hansel và Gretel' sử dụng ngôi nhà bánh gừng để bẫy và ăn thịt trẻ em."
+  },
+  {
+  "question": "Cô bé lọ lem thua gì ở vũ hội?",
+  "answer": "Cinderella làm mất một chiếc dép thủy tinh của cô ấy tại vũ hội trong 'Cinderella'."
+  },
+  {
+  "question": "Tên của sinh vật ma thuật đã giúp Lọ Lem chuẩn bị cho vũ hội là gì?",
+  "answer": "Tên của sinh vật huyền bí đã giúp Lọ Lem chuẩn bị cho vũ hội là Bà tiên đỡ đầu."
+  },
+  {
+  "question": "Tên của hoàng tử đã cứu Người đẹp ngủ trong rừng là gì?",
+  "answer": "Tên của hoàng tử đã cứu Người đẹp ngủ trong rừng là Hoàng tử Phillip."
+  },
+  {
+  "question": "Người thổi sáo dùng gì để dẫn lũ chuột đi trong 'Người thổi sáo thành Hamelin'?",
+  "answer": "Pied Piper sử dụng một giai điệu ma thuật trên cây sáo của mình để dẫn lũ chuột đi."
+  },
+  {
+  "question": "Tên của lâu đài nơi Người đẹp tìm thấy Quái vật trong 'Người đẹp và Quái vật' là gì?",
+  "answer": "Tên của lâu đài mà Người đẹp tìm thấy Quái vật trong 'Người đẹp và Quái vật' là Lâu đài của Quái vật."
+  },
+  {
+  "question": "Tên của công chúa hôn ếch trong 'Công chúa và chàng ếch' là gì?",
+  "answer": "Tên của công chúa hôn ếch trong 'Công chúa và chàng ếch' là Công chúa Tiana."
+  },
+  {
+  "question": "Tên của công chúa sống trong tòa tháp với mái tóc dài trong 'Rapunzel' là gì?",
+  "answer": "Tên của nàng công chúa tóc dài sống trong tòa tháp trong 'Rapunzel' là Rapunzel."
+  },
+  {
+  "question": "Nàng tiên cá nhỏ đã đánh đổi điều gì với phù thủy biển để có cơ hội ở bên hoàng tử?",
+  "answer": "Nàng tiên cá nhỏ đã đánh đổi giọng nói của mình với phù thủy biển để có cơ hội được ở bên hoàng tử."
+  },
+  {
+  "question": "Jack đã đổi con bò lấy gì trong 'Jack and the Beanstalk'?",
+  "answer": "Jack đổi con bò để lấy hạt đậu thần trong 'Jack and the Beanstalk'."
+  },
+  {
+  "question": "Tên của nàng công chúa tìm thấy bánh xe quay trong 'Công chúa ngủ trong rừng' là gì?",
+  "answer": "Tên của nàng công chúa tìm thấy bánh xe quay trong 'Công chúa ngủ trong rừng' là Aurora."
+  },
+  {
+  "question": "Bà tiên đỡ đầu của Lọ Lem biến thành cỗ xe bằng gì?",
+  "answer": "Bà tiên đỡ đầu của Lọ Lem đã biến một quả bí ngô thành một chiếc xe ngựa xinh đẹp."
+  },
+  {
+  "question": "Cái gì trong 'Ba chú heo con' mà con Sói hung ác thổi bay?",
+  "answer": "The Big Bad Wolf đã thổi bay những ngôi nhà làm bằng rơm và củi trong 'Ba chú heo con'."
+  },
+  {
+  "question": "Tên của công chúa sống trong lâu đài dưới biển trong 'Nàng tiên cá' là gì?",
+  "answer": "Tên của nàng công chúa sống trong lâu đài dưới biển trong 'Nàng tiên cá' là Ariel."
+  },
+  {
+  "question": "Bà tiên đỡ đầu dùng gì để giúp Lọ Lem đi dự vũ hội?",
+  "answer": "Bà tiên đỡ đầu dùng cây đũa thần để giúp Lọ Lem đi dự vũ hội."
+  },
+  {
+  "question": "Tên của nàng công chúa hát với các sinh vật trong rừng trong 'Snow White' là gì?",
+  "answer": "Tên của nàng công chúa hát với các sinh vật trong rừng trong 'Snow White' chính là Snow White."
+  },
+  {
+  "question": "Vịt con xấu xí biến thành gì ở cuối câu chuyện?",
+  "answer": "Vịt con xấu xí biến thành thiên nga xinh đẹp ở cuối câu chuyện."
+  },
+  {
+  "question": "Tên của công chúa sống trong lâu đài dưới biển trong 'Nàng tiên cá' là gì?",
+  "answer": "Tên của nàng công chúa sống trong lâu đài dưới biển trong 'Nàng tiên cá' là Ariel."
+  },
+  {
+  "question": "Tên của vùng đất ma thuật nơi Aladdin tìm thấy cây đèn thần là gì?",
+  "answer": "Tên của vùng đất ma thuật nơi Aladdin tìm thấy cây đèn thần là Cave of Wonders."
+  },
+  {
+  "question": "Nữ hoàng độc ác dùng gì để đầu độc Bạch Tuyết trong 'Snow White'?",
+  "câu trả lời": "Hoàng hậu độc ác dùng một quả táo tẩm độc để đầu độc Bạch Tuyết."
+  },
+  {
+  "question": "Bà tiên đỡ đầu của Lọ Lem biến thành người đánh xe để lái cỗ xe bí ngô của cô ấy là gì?",
+  "answer": "Bà tiên đỡ đầu của Lọ Lem biến một con chuột thành người đánh xe để lái cỗ xe bí ngô của cô ấy."
+  },
+  {
+  "question": "Tên của công chúa hôn ếch trong 'Công chúa và chàng ếch' là gì?",
+  "answer": "Tên của công chúa hôn ếch trong 'Công chúa và chàng ếch' là Công chúa Tiana."
+  },
+  {
+  "question": "Cái gì đã thổi bay Con Sói Lớn Xấu xa trong 'Ba chú heo con'?",
+  "answer": "The Big Bad Wolf đã thổi bay những ngôi nhà làm bằng rơm và củi trong 'Ba chú heo con'."
+  },
+  {
+  "question": "Cinderella đã sử dụng cái gì để đi đến vũ hội trong 'Cinderella'?",
+  "answer": "Cinderella đã sử dụng chiếc xe ngựa xinh đẹp do bà tiên đỡ đầu của cô ấy làm để đi dự vũ hội."
+  },
+  {
+  "question": "Tên của tên cướp biển trong 'Peter Pan' là gì?",
+  "answer": "Tên cướp biển trong 'Peter Pan' là Thuyền trưởng Hook."
+  },
+  {
+  "question": "Bà tiên đỡ đầu dùng gì để biến quả bí ngô thành xe ngựa?",
+  "answer": "Bà tiên đỡ đầu sử dụng cây đũa thần của mình để biến quả bí ngô thành cỗ xe trong 'Cinderella'."
+  },
+  {
+  "question": "Tên của con sói đang cố ăn thịt Cô bé quàng khăn đỏ là gì?",
+  "answer": "Tên của con sói đang cố ăn thịt Cô bé quàng khăn đỏ là Sói xấu xa."
+  },
+  {
+  "question": "Tên của vùng đất ma thuật nơi Peter Pan sống là gì?",
+  "answer": "Tên của vùng đất huyền diệu nơi Peter Pan sống là Neverland."
+  },
+  {
+  "question": "Hoàng hậu độc ác đã cho Bạch Tuyết thứ gì để khiến cô ấy chìm vào giấc ngủ sâu?",
+  "answer": "Hoàng hậu độc ác đã đưa cho Bạch Tuyết một quả táo tẩm độc để khiến nàng chìm vào giấc ngủ sâu trong 'Snow White'."
+  },
+  {
+  "question": "Dế Jiminy trong 'Pinocchio' là sinh vật gì?",
+  "answer": "Jiminy Cricket là một chú dế khôn ngoan và biết nói, là lương tâm của Pinocchio."
+  },
+  {
+  "question": "Tên của cô gái đi theo Thỏ Trắng trong 'Alice ở xứ sở thần tiên' là gì?",
+  "answer": "Tên của cô gái đi theo Thỏ Trắng trong 'Alice in Wonderland' là Alice."
+  },
+  {
+  "question": "Thỏ trắng trong 'Alice ở xứ sở thần tiên' là sinh vật gì?",
+  "answer": "Thỏ trắng là một chú thỏ điên cuồng và có ý thức về thời gian, người dẫn Alice vào một cuộc phiêu lưu."
+  },
+  {
+  "question": "Tên ngôi làng nơi Belle sống trong 'Người đẹp và quái vật' là gì?",
+  "answer": "Tên ngôi làng nơi Belle sống trong 'Người đẹp và quái vật' là Villeneuve."
+  },
+  {
+  "question": "Tên của bông hồng bị phù phép trong 'Người đẹp và quái vật' là gì?",
+  "answer": "Tên của bông hồng bị phù phép trong 'Người đẹp và quái vật' là Bông hồng bị phù phép."
+  },
+  {
+  "question": "Bà phù thủy trong 'Hansel và Gretel' dùng gì để bẫy trẻ em?",
+  "answer": "Bà phù thủy trong 'Hansel và Gretel' sử dụng ngôi nhà bánh gừng để bẫy và ăn thịt trẻ em."
+  },
+  {
+  "question": "Cô bé lọ lem thua gì ở vũ hội?",
+  "answer": "Cinderella làm mất một chiếc dép thủy tinh của cô ấy tại vũ hội trong 'Cinderella'."
+  },
+  {
+  "question": "Tên của sinh vật ma thuật đã giúp Lọ Lem chuẩn bị cho vũ hội là gì?",
+  "answer": "Tên của sinh vật huyền bí đã giúp Lọ Lem chuẩn bị cho vũ hội là Bà tiên đỡ đầu."
+  },
+  {
+  "question": "Tên của hoàng tử đã cứu Người đẹp ngủ trong rừng là gì?",
+  "answer": "Tên của hoàng tử đã cứu Người đẹp ngủ trong rừng là Hoàng tử Phillip."
+  },
+  {
+  "question": "Người thổi sáo dùng gì để dẫn lũ chuột đi trong 'Người thổi sáo thành Hamelin'?",
+  "answer": "Pied Piper sử dụng một giai điệu ma thuật trên cây sáo của mình để dẫn lũ chuột đi."
+  },
+  {
+  "question": "Tên của lâu đài nơi Người đẹp tìm thấy Quái vật trong 'Người đẹp và Quái vật' là gì?",
+  "answer": "Tên của lâu đài mà Người đẹp tìm thấy Quái vật trong 'Người đẹp và Quái vật' là Lâu đài của Quái vật."
+  },
+  {
+  "question": "Tên của công chúa hôn ếch trong 'Công chúa và chàng ếch' là gì?",
+  "answer": "Tên của công chúa hôn ếch trong 'Công chúa và chàng ếch' là Công chúa Tiana."
+  },
+  {
+  "question": "Tên của công chúa sống trong tòa tháp với mái tóc dài trong 'Rapunzel' là gì?",
+  "answer": "Tên của nàng công chúa tóc dài sống trong tòa tháp trong 'Rapunzel' là Rapunzel."
+  },
+  {
+  "question": "Nàng tiên cá nhỏ đã đánh đổi điều gì với phù thủy biển để có cơ hội ở bên hoàng tử?",
+  "answer": "Nàng tiên cá nhỏ đã đánh đổi giọng nói của mình với phù thủy biển để có cơ hội được ở bên hoàng tử."
+  },
+  {
+  "question": "Jack đã đổi con bò lấy gì trong 'Jack and the Beanstalk'?",
+  "answer": "Jack đổi con bò để lấy hạt đậu thần trong 'Jack and the Beanstalk'."
+  },
+  {
+  "question": "Tên của nàng công chúa tìm thấy bánh xe quay trong 'Công chúa ngủ trong rừng' là gì?",
+  "answer": "Tên của nàng công chúa tìm thấy bánh xe quay trong 'Công chúa ngủ trong rừng' là Aurora."
+  },
+  {
+  "question": "Bà tiên đỡ đầu của Lọ Lem biến thành cỗ xe bằng gì?",
+  "answer": "Bà tiên đỡ đầu của Lọ Lem đã biến một quả bí ngô thành một chiếc xe ngựa xinh đẹp."
+  },
+  {
+  "question": "Cái gì trong 'Ba chú heo con' mà con Sói hung ác thổi bay?",
+  "answer": "The Big Bad Wolf đã thổi bay những ngôi nhà làm bằng rơm và củi trong 'Ba chú heo con'."
+  },
+  {
+  "question": "Tên của công chúa sống trong lâu đài dưới biển trong 'Nàng tiên cá' là gì?",
+  "answer": "Tên của nàng công chúa sống trong lâu đài dưới biển trong 'Nàng tiên cá' là Ariel."
+  },
+  {
+  "question": "Bà tiên đỡ đầu dùng gì để giúp Lọ Lem đi dự vũ hội?",
+  "answer": "Bà tiên đỡ đầu dùng cây đũa thần để giúp Lọ Lem đi dự vũ hội."
+  },
+  {
+  "question": "Tên của nàng công chúa hát với các sinh vật trong rừng trong 'Snow White' là gì?",
+  "answer": "Tên của nàng công chúa hát với các sinh vật trong rừng trong 'Snow White' chính là Snow White."
+  },
+  {
+  "question": "Vịt con xấu xí biến thành gì ở cuối câu chuyện?",
+  "answer": "Vịt con xấu xí biến thành thiên nga xinh đẹp ở cuối câu chuyện."
+  },
+  {
+  "question": "Tên của công chúa sống trong lâu đài dưới biển trong 'Nàng tiên cá' là gì?",
+  "answer": "Tên của nàng công chúa sống trong lâu đài dưới biển trong 'Nàng tiên cá' là Ariel."
+  },
+  {
+  "question": "Tên của vùng đất ma thuật nơi Aladdin tìm thấy cây đèn thần là gì?",
+  "answer": "Tên của vùng đất ma thuật nơi Aladdin tìm thấy cây đèn thần là Cave of Wonders."
+  },
+  {
+  "question": "Nữ hoàng độc ác dùng gì để đầu độc Bạch Tuyết trong 'Snow White'?",
+  "câu trả lời": "Hoàng hậu độc ác dùng một quả táo tẩm độc để đầu độc Bạch Tuyết."
+  },
+  {
+  "question": "Bà tiên đỡ đầu của Lọ Lem biến thành người đánh xe để lái cỗ xe bí ngô của cô ấy là gì?",
+  "answer": "Bà tiên đỡ đầu của Lọ Lem biến một con chuột thành người đánh xe để lái cỗ xe bí ngô của cô ấy."
+  },
+  {
+  "question": "Tên của công chúa hôn ếch trong 'Công chúa và chàng ếch' là gì?",
+  "answer": "Tên của công chúa hôn ếch trong 'Công chúa và chàng ếch' là Công chúa Tiana."
+  },
+  {
+  "question": "Tên của công chúa sống trong tòa tháp với mái tóc dài trong 'Rapunzel' là gì?",
+  "answer": "Tên của nàng công chúa tóc dài sống trong tòa tháp trong 'Rapunzel' là Rapunzel."
+  },
+  {
+  "question": "Nàng tiên cá nhỏ đã đánh đổi điều gì với phù thủy biển để có cơ hội ở bên hoàng tử?",
+  "answer": "Nàng tiên cá nhỏ đã đánh đổi giọng nói của mình với phù thủy biển để có cơ hội được ở bên hoàng tử."
+  },
+  {
+  "question": "Jack đã đổi con bò lấy gì trong 'Jack and the Beanstalk'?",
+  "answer": "Jack đổi con bò để lấy hạt đậu thần trong 'Jack and the Beanstalk'."
+  },
+  {
+  "question": "Tên của nàng công chúa tìm thấy bánh xe quay trong 'Công chúa ngủ trong rừng' là gì?",
+  "answer": "Tên của nàng công chúa tìm thấy bánh xe quay trong 'Công chúa ngủ trong rừng' là Aurora."
+  },
+  {
+  "question": "Bà tiên đỡ đầu của Lọ Lem biến thành cỗ xe bằng gì?",
+  "answer": "Bà tiên đỡ đầu của Lọ Lem đã biến một quả bí ngô thành một chiếc xe ngựa xinh đẹp."
+  },
+  {
+  "question": "Cái gì trong 'Ba chú heo con' mà con Sói hung ác thổi bay?",
+  "answer": "The Big Bad Wolf đã thổi bay những ngôi nhà làm bằng rơm và củi trong 'Ba chú heo con'."
+  },
+  {
+  "question": "Tên của công chúa sống trong lâu đài dưới biển trong 'Nàng tiên cá' là gì?",
+  "answer": "Tên của nàng công chúa sống trong lâu đài dưới biển trong 'Nàng tiên cá' là Ariel."
+  },
+  {
+  "question": "Bà tiên đỡ đầu dùng gì để giúp Lọ Lem đi dự vũ hội?",
+  "answer": "Bà tiên đỡ đầu dùng cây đũa thần để giúp Lọ Lem đi dự vũ hội."
+  },
+  {
+  "question": "Tên của nàng công chúa hát với các sinh vật trong rừng trong 'Snow White' là gì?",
+  "answer": "Tên của nàng công chúa hát với các sinh vật trong rừng trong 'Snow White' chính là Snow White."
+  },
+  {
+  "question": "Tên của công chúa sống trong lâu đài dưới biển trong 'Nàng tiên cá' là gì?",
+  "answer": "Tên của nàng công chúa sống trong lâu đài dưới biển trong 'Nàng tiên cá' là Ariel."
+  },
+  {
+  "question": "Tên của vùng đất ma thuật nơi Aladdin tìm thấy cây đèn thần là gì?",
+  "answer": "Tên của vùng đất ma thuật nơi Aladdin tìm thấy cây đèn thần là Cave of Wonders."
+  },
+  {
+  "question": "Nữ hoàng độc ác dùng gì để đầu độc Bạch Tuyết trong 'Snow White'?",
+  "câu trả lời": "Hoàng hậu độc ác dùng một quả táo tẩm độc để đầu độc Bạch Tuyết."
+  },
+  {
+  "question": "Bà tiên đỡ đầu của Lọ Lem biến thành người đánh xe để lái cỗ xe bí ngô của cô ấy là gì?",
+  "answer": "Bà tiên đỡ đầu của Lọ Lem biến một con chuột thành người đánh xe để lái cỗ xe bí ngô của cô ấy."
+  },
+  {
+  "question": "Tên của công chúa hôn ếch trong 'Công chúa và chàng ếch' là gì?",
+  "answer": "Tên của công chúa hôn ếch trong 'Công chúa và chàng ếch' là Công chúa Tiana."
+  },
+  {
+  "question": "Tên của công chúa sống trong tòa tháp với mái tóc dài trong 'Rapunzel' là gì?",
+  "answer": "Tên của nàng công chúa tóc dài sống trong tòa tháp trong 'Rapunzel' là Rapunzel."
+  },
+  {
+  "question": "Nàng tiên cá nhỏ đã đánh đổi điều gì với phù thủy biển để có cơ hội ở bên hoàng tử?",
+  "answer": "Nàng tiên cá nhỏ đã đánh đổi giọng nói của mình với phù thủy biển để có cơ hội được ở bên hoàng tử."
+  },
+  {
+  "question": "Jack đã đổi con bò lấy gì trong 'Jack and the Beanstalk'?",
+  "answer": "Jack đổi con bò để lấy hạt đậu thần trong 'Jack and the Beanstalk'."
+  },
+  {
+  "question": "Tên của nàng công chúa tìm thấy bánh xe quay trong 'Công chúa ngủ trong rừng' là gì?",
+  "answer": "Tên của nàng công chúa tìm thấy bánh xe quay trong 'Công chúa ngủ trong rừng' là Aurora."
+  },
+  {
+  "question": "Bà tiên đỡ đầu của Lọ Lem biến thành cỗ xe bằng gì?",
+  "answer": "Bà tiên đỡ đầu của Lọ Lem đã biến một quả bí ngô thành một chiếc xe ngựa xinh đẹp."
+  },
+  {
+  "question": "Cái gì trong 'Ba chú heo con' mà con Sói hung ác thổi bay?",
+  "answer": "The Big Bad Wolf đã thổi bay những ngôi nhà làm bằng rơm và củi trong 'Ba chú heo con'."
+  },
+  {
+  "question": "Tên của công chúa sống trong lâu đài dưới biển trong 'Nàng tiên cá' là gì?",
+  "answer": "Tên của nàng công chúa sống trong lâu đài dưới biển trong 'Nàng tiên cá' là Ariel."
+  },
+  {
+  "question": "Bà tiên đỡ đầu dùng gì để giúp Lọ Lem đi dự vũ hội?",
+  "answer": "Bà tiên đỡ đầu dùng cây đũa thần để giúp Lọ Lem đi dự vũ hội."
+  },
+  {
+  "question": "Tên của nàng công chúa hát với các sinh vật trong rừng trong 'Snow White' là gì?",
+  "answer": "Tên của nàng công chúa hát với các sinh vật trong rừng trong 'Snow White' chính là Snow White."
+  },
+  {
+  "question": "Vịt con xấu xí biến thành gì ở cuối câu chuyện?",
+  "answer": "Vịt con xấu xí biến thành thiên nga xinh đẹp ở cuối câu chuyện."
+  },
+  {
+  "question": "Tên của công chúa sống trong lâu đài dưới biển trong 'Nàng tiên cá' là gì?",
+  "answer": "Tên của nàng công chúa sống trong lâu đài dưới biển trong 'Nàng tiên cá' là Ariel."
+  },
+  {
+  "question": "Tên của vùng đất ma thuật nơi Aladdin tìm thấy cây đèn thần là gì?",
+  "answer": "Tên của vùng đất ma thuật nơi Aladdin tìm thấy cây đèn thần là Cave of Wonders."
+  },
+  {
+  "question": "Nữ hoàng độc ác dùng gì để đầu độc Bạch Tuyết trong 'Snow White'?",
+  "câu trả lời": "Hoàng hậu độc ác dùng một quả táo tẩm độc để đầu độc Bạch Tuyết."
+  },
+  {
+  "question": "Bà tiên đỡ đầu của Lọ Lem biến thành người đánh xe để lái cỗ xe bí ngô của cô ấy là gì?",
+  "answer": "Bà tiên đỡ đầu của Lọ Lem biến một con chuột thành người đánh xe để lái cỗ xe bí ngô của cô ấy."
+  },
+  {
+  "question": "Tên của công chúa hôn ếch trong 'Công chúa và chàng ếch' là gì?",
+  "answer": "Tên của công chúa hôn ếch trong 'Công chúa và chàng ếch' là Công chúa Tiana."
+  },
+  {
+  "question": "Tên của công chúa sống trong tòa tháp với mái tóc dài trong 'Rapunzel' là gì?",
+  "answer": "Tên của nàng công chúa tóc dài sống trong tòa tháp trong 'Rapunzel' là Rapunzel."
+  },
+  {
+  "question": "Nàng tiên cá nhỏ đã đánh đổi điều gì với phù thủy biển để có cơ hội ở bên hoàng tử?",
+  "answer": "Nàng tiên cá nhỏ đã đánh đổi giọng nói của mình với phù thủy biển để có cơ hội được ở bên hoàng tử."
+  },
+  {
+  "question": "Tên của vùng đất ma thuật nơi Aladdin tìm thấy cây đèn thần là gì?",
+  "answer": "Tên của vùng đất ma thuật nơi Aladdin tìm thấy cây đèn thần là Cave of Wonders."
+  },
+  {
+  "question": "Nữ hoàng độc ác dùng gì để đầu độc Bạch Tuyết trong 'Snow White'?",
+  "câu trả lời": "Hoàng hậu độc ác dùng một quả táo tẩm độc để đầu độc Bạch Tuyết."
+  },
+  {
+  "question": "Bà tiên đỡ đầu của Lọ Lem biến thành người đánh xe để lái cỗ xe bí ngô của cô ấy là gì?",
+  "answer": "Bà tiên đỡ đầu của Lọ Lem biến một con chuột thành người đánh xe để lái cỗ xe bí ngô của cô ấy."
+  },
+  {
+  "question": "Tên của công chúa hôn ếch trong 'Công chúa và chàng ếch' là gì?",
+  "answer": "Tên của công chúa hôn ếch trong 'Công chúa và chàng ếch' là Công chúa Tiana."
+  },
+  {
+  "question": "Tên của công chúa sống trong tòa tháp với mái tóc dài trong 'Rapunzel' là gì?",
+  "answer": "Tên của nàng công chúa tóc dài sống trong tòa tháp trong 'Rapunzel' là Rapunzel."
+  },
+  {
+  "question": "Nàng tiên cá nhỏ đã đánh đổi điều gì với phù thủy biển để có cơ hội ở bên hoàng tử?",
+  "answer": "Nàng tiên cá nhỏ đã đánh đổi giọng nói của mình với phù thủy biển để có cơ hội được ở bên hoàng tử."
+  },
+  {
+  "question": "Jack đã đổi con bò lấy gì trong 'Jack and the Beanstalk'?",
+  "answer": "Jack đổi con bò để lấy hạt đậu thần trong 'Jack and the Beanstalk'."
+  },
+  {
+  "question": "Tên của nàng công chúa tìm thấy bánh xe quay trong 'Công chúa ngủ trong rừng' là gì?",
+  "answer": "Tên của nàng công chúa tìm thấy bánh xe quay trong 'Công chúa ngủ trong rừng' là Aurora."
+  },
+  {
+  "question": "Bà tiên đỡ đầu của Lọ Lem biến thành cỗ xe bằng gì?",
+  "answer": "Bà tiên đỡ đầu của Lọ Lem đã biến một quả bí ngô thành một chiếc xe ngựa xinh đẹp."
+  },
+  {
+  "question": "Cái gì trong 'Ba chú heo con' mà con Sói hung ác thổi bay?",
+  "answer": "The Big Bad Wolf đã thổi bay những ngôi nhà làm bằng rơm và củi trong 'Ba chú heo con'."
+  },
+  {
+  "question": "Tên của công chúa sống trong lâu đài dưới biển trong 'Nàng tiên cá' là gì?",
+  "answer": "Tên của nàng công chúa sống trong lâu đài dưới biển trong 'Nàng tiên cá' là Ariel."
+  },
+  {
+  "question": "Bà tiên đỡ đầu dùng gì để giúp Lọ Lem đi dự vũ hội?",
+  "answer": "Bà tiên đỡ đầu dùng cây đũa thần để giúp Lọ Lem đi dự vũ hội."
+  },
+  {
+  "question": "Tên của nàng công chúa hát với các sinh vật trong rừng trong 'Snow White' là gì?",
+  "answer": "Tên của nàng công chúa hát với các sinh vật trong rừng trong 'Snow White' chính là Snow White."
+  },
+  {
+  "question": "Vịt con xấu xí biến thành gì ở cuối câu chuyện?",
+  "answer": "Vịt con xấu xí biến thành thiên nga xinh đẹp ở cuối câu chuyện."
+  },
+  {
+  "question": "Tên của công chúa sống trong lâu đài dưới biển trong 'Nàng tiên cá' là gì?",
+  "answer": "Tên của nàng công chúa sống trong lâu đài dưới biển trong 'Nàng tiên cá' là Ariel."
+  },
+  {
+  "question": "Tên của vùng đất ma thuật nơi Aladdin tìm thấy cây đèn thần là gì?",
+  "answer": "Tên của vùng đất ma thuật nơi Aladdin tìm thấy cây đèn thần là Cave of Wonders."
+  },
+  {
+  "question": "Nữ hoàng độc ác dùng gì để đầu độc Bạch Tuyết trong 'Snow White'?",
+  "câu trả lời": "Hoàng hậu độc ác dùng một quả táo tẩm độc để đầu độc Bạch Tuyết."
+  },
+  {
+  "question": "Bà tiên đỡ đầu của Lọ Lem biến thành người đánh xe để lái cỗ xe bí ngô của cô ấy là gì?",
+  "answer": "Bà tiên đỡ đầu của Lọ Lem biến một con chuột thành người đánh xe để lái cỗ xe bí ngô của cô ấy."
   }
 ]
