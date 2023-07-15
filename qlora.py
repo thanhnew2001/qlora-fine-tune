@@ -521,8 +521,16 @@ def make_data_module(tokenizer: transformers.PreTrainedTokenizer, args) -> Dict:
     elif args.dataset == 'my-data':
         dataset = load_dataset("json", data_files="conversations.json")
         dataset = dataset.map(lambda x: {
-        'input': '### Instruction: '+ x['question'],
-        'output': '### Response: '+ x['answer']
+        if x['question'] is not None:
+            instruction = '### Instruction: ' + x['question']
+        else:
+            instruction = '### Instruction: No question available.'
+
+        if x['answer'] is not None:
+            output = '### Response: ' + x['answer']
+        else:
+            output = '### Response: No answer available.'
+
         }, remove_columns=['question', 'answer'])
     else:
         raise NotImplementedError(f"Dataset {args.dataset} not implemented yet.")
