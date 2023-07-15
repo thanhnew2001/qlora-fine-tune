@@ -287,4 +287,4 @@ with gr.Blocks(
 
 demo.queue(max_size=128, concurrency_count=2)
 
-demo.launch(server_name='0.0.0.0')
+demo.launch(server_name='0.0.0.0', share=True)
