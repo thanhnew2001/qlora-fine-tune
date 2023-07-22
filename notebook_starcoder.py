@@ -13,16 +13,13 @@ model = AutoModelForCausalLM.from_pretrained("HuggingFaceH4/starchat-alpha",
                                               load_in_8bit=True,
                                               device_map='auto',
                                               torch_dtype=torch.float16,
-                                            use_auth_token= False,
-                                            load_in_8bit_fp32_cpu_offload=False
+                                            use_auth_token= False
                                               )
 
 tokenizer.eos_token, tokenizer.pad_token
 
 tokenizer.pad_token_id = 0
 
-
-full_prompt
 
 import textwrap
 
