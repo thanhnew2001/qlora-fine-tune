@@ -2,8 +2,9 @@ import torch
 from peft import PeftModel    
 from transformers import AutoModelForCausalLM, AutoTokenizer, LlamaTokenizer, StoppingCriteria, StoppingCriteriaList, TextIteratorStreamer
 
-#model_name = "TheBloke/wizardLM-13B-1.0-fp16"
-model_name = "tiiuae/falcon-7b"
+model_name = "TheBloke/wizardLM-13B-1.0-fp16"
+#this model not working
+#model_name = "tiiuae/falcon-7b" 
 adapters_name = './output/checkpoint-100/adapter_model'
 
 print(f"Starting to load the model {model_name} into memory")
