@@ -58,7 +58,8 @@ demo = gr.Interface(
     outputs="text",
 )
 
-demo.launch(share=True)
+demo.launch(server_name='0.0.0.0', share=True)
+
 
 
 #generate_response("Write a python function that reverses each word in an input string")
