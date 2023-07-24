@@ -39,7 +39,6 @@ def generate_response(input_prompt):
     inputs = tokenizer.encode(full_prompt, return_tensors="pt").to('cuda')
     outputs = model.generate(inputs,
                             eos_token_id = 0,
-                            pad_token_id = 0,
                             max_length=256,
                             early_stopping=True)
     output =  tokenizer.decode(outputs[0])
