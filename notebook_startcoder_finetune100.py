@@ -15,7 +15,7 @@ model = AutoModelForCausalLM.from_pretrained("bigcode/starcoder",
                                               load_in_8bit=True,
                                               device_map='auto',
                                               torch_dtype=torch.float16,
-                                            use_auth_token= False
+                                            use_auth_token= True
                                               )
 adapters_name = './output/checkpoint-100/adapter_model'
 model = PeftModel.from_pretrained(model, adapters_name)
