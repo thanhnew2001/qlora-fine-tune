@@ -10,9 +10,12 @@ import transformers
 from transformers import GenerationConfig, pipeline
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-tokenizer = AutoTokenizer.from_pretrained("HuggingFaceH4/starchat-alpha")
+#checkpoint = "HuggingFaceH4/starchat-alpha"
+checkpoint = "bigcode/starcoderbase-3b"
 
-model = AutoModelForCausalLM.from_pretrained("HuggingFaceH4/starchat-alpha",
+tokenizer = AutoTokenizer.from_pretrained(checkpoint)
+
+model = AutoModelForCausalLM.from_pretrained(checkpoint,
                                               load_in_8bit=True,
                                               device_map='auto',
                                               torch_dtype=torch.float16,
