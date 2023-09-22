@@ -2,6 +2,9 @@
 # from huggingface_hub import notebook_login
 # notebook_login()
 
+from huggingface_hub import login
+login(token="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")
+
 import torch
 import transformers
 from transformers import GenerationConfig, pipeline
