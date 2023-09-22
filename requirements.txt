@@ -10,3 +10,4 @@ wandb==0.15.3
 gradio
 chardet
 cchardet
+huggingface_hub
